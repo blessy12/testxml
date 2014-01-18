@@ -1,0 +1,5 @@
+<country>
+    <state>
+        <add>insert into countries(country_name,country_code)values(?,?)</add>
+    </state>
+</country>
